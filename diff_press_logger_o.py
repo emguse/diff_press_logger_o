@@ -9,6 +9,12 @@ import datetime
 import multiprocessing as mp
 import time
 
+'''
+- 2021/12/12 ver.1.00
+- Author : emguse
+- License: MIT License
+'''
+
 D6F_WAITING_MEAS = 0.033 # sec
 SAMPLE_FREQ = 16 # Hz
 SAMPLE_INTERVAL = 1/SAMPLE_FREQ # 
