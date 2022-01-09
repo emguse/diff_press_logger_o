@@ -5,7 +5,7 @@ It measures the differential pressure and records an event when there is a sudde
 This project is a twin project and comes in two flavors, using sensors from different manufacturers.
 
 I have a sibling project where I ported it to a microcontroller and ran it on a Raspberry Pi pico and CircuitPython.
-[emguse/circuit_pico_logger_o](/circuit_pico_logger_o)
+[emguse/circuit_pico_logger_o](./circuit_pico_logger_o)
 
 # What you need
 
